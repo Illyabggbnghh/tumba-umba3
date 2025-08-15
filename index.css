@@ -1,1 +1,42 @@
 
+h1 {
+background-color: black;
+color:white;
+text-align:center;
+border-radius: 25px;
+}
+
+.bike{
+border:1px solid black ;
+border-radius: 100px;
+text-align: center;
+padding: 5px;
+margin: 10px;
+}
+
+.order-btn {
+ background-color: black;
+ border:3px double black;
+ border-radius:6000px;
+ color:white;
+}
+.order-btn:focus{
+background-color: darkgrey;
+
+
+
+    
+}
+
+
+
+
+
+
+
+h3{
+border: 5px dotted black;
+border-radius: 100px;
+width: 600px;
+margin: 0 auto;
+}
